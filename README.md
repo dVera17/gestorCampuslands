@@ -1,5 +1,8 @@
+MODULO DE ADMINISTRADOR PARA LA GESTION DE INFORMACION DE LA EMPRESA CAMPUSLANDS.
 
-
+El backend de este aplicativo se encuentra finalizado.
+La data se consume por medio de fetch, la base de datos se creó y se implemento teniendo en cuenta el 
+modelo relacional dado, se hicieron arreglos a este modelo, mas adelante se explica a detalle.
 
 - SENTENCIAS UTILIZADAS PARA LA CREACION DE LA BASE DE DATOS
 - CREATE DATABASE campuslands;
